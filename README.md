@@ -1,4 +1,4 @@
-# pvalue_analysis
+# Test Observation Analysis
 
 A Python package for performing P Value and P-Adjusted Value analysis across multiple statistical tests. This tool is designed to help researchers and data scientists efficiently compute, adjust, and interpret p-values when running multiple hypothesis tests, reducing the risk of false positives.
 
